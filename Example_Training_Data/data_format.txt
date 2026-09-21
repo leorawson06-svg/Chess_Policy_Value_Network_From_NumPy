@@ -1,0 +1,2 @@
+INFO Files are of the following format.
+[[top 3 moves:(move,'move_score')],[CPeval from white's perspective],[fen]]
